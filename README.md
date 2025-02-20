@@ -30,8 +30,5 @@ Este proyecto es un sistema de autenticación (login) diseñado para una aplicac
   - HTML5
   - CSS3
 
-- **Herramientas**:
-  - npm (gestión de dependencias)
-  - Git (control de versiones)
 
 
